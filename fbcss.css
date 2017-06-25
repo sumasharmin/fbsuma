@@ -1,0 +1,142 @@
+/*:dimention*/
+
+body{
+
+margin: 0px;
+padding: 0px;
+
+}
+
+/*header section*/
+.head{
+width: 100%;
+height: 85px;
+overflow: hidden;
+background: #3D5D96;
+}
+/*for logo section*/
+
+.logo{
+width:35%; 
+height: 100%;
+float: left;
+padding-left: 190px;
+color: white;
+padding-top: 1px;
+font-family: 'Titillium Web', sans-serif;
+
+
+}
+
+/*for login section*/
+
+.login{
+width: 43%;
+padding-top: 5px;
+height: 100%;
+float: right;
+color: white;
+}
+
+.login table th{
+
+text-align: left;
+font-size: 10px;
+font-family: 'Open Sans', sans-serif;
+
+}
+.login table td{
+
+font-size: 11px;
+font-family: 'Roboto', sans-serif;
+}
+.login input{
+
+padding: 0px;
+margin-right: 6px;
+
+
+}
+#sub{
+
+background: #476FAD;
+color:white;
+padding: 4px;
+
+font-family: 'Open Sans', sans-serif;
+border: 0px;
+font-size: 11px;
+font-weight: bold;
+}
+/*body section*/
+
+.content{
+width: 100%;
+/*border: 2px solid red;*/
+overflow: hidden;
+background: linear-gradient(#FDFDFD, #D6DCEA);
+}
+.imge{
+width: 35%;
+/*border: 2px solid coral;*/
+float: left;
+padding-left: 190px;
+font-family: 'Hind', sans-serif;
+color: #293751;
+text-align: justify;
+}
+.imge img{
+
+width: 100%;
+
+
+}
+.fdiv{
+
+width: 40%;
+	/*border: 2px solid green;*/
+font-family: 'Hind', sans-serif;
+float: right;
+padding-right: 42px;
+
+/*background: red;*/
+}
+.fdiv table {
+
+
+font-size: 12px;
+}
+
+
+.fdiv h1{
+
+
+font-family: 'Hind', sans-serif;
+font-style: bold;
+}
+.fdiv a{
+
+text-decoration: none;
+font-size: 12px;
+color: #4B76BA;
+font-weight: 15px;
+}
+ .fdiv input{
+
+
+padding: 0px;
+
+ }
+
+#sub2{
+
+background: #78A059;
+color:white;
+padding: 9px 12px 9px 12px;
+border-radius: 8px;
+font-family: 'Open Sans', sans-serif;
+font-size: 16px;
+border: 0px;
+font-weight: bolder;
+}
+/*
